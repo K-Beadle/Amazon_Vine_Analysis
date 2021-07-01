@@ -42,8 +42,8 @@ To better understand the results, please note the following:
 
 
 - What percentage of non-vine reviews were 5 stars?
-  - %51.06 of the non-![nonpaid_five_percentage](https://user-images.githubusercontent.com/78178900/124158889-193bd800-da60-11eb-8ef2-86fe55e35f30.png)
-    - Vine reviews that had more than 20 votes and 50% or more of those votes were labeled as helpful, were 5-stars.
+  - %51.06 of the non-Vine reviews that had more than 20 votes and 50% or more of those votes were labeled as helpful, were 5-stars.
+    - ![nonpaid_five_percentage](https://user-images.githubusercontent.com/78178900/124158889-193bd800-da60-11eb-8ef2-86fe55e35f30.png)
 
 
 
