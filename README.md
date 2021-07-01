@@ -42,10 +42,16 @@ To better understand the results, please note the following:
 
 
 - What percentage of non-vine reviews were 5 stars?
-  - %51.06 of the non-Vine reviews that had more than 20 votes and 50% or more of those votes were labeled as helpful, were 5-stars.
+  - %38.70 of the non-Vine reviews that had more than 20 votes and 50% or more of those votes were labeled as helpful, were 5-stars.
     - ![nonpaid_five_percentage](https://user-images.githubusercontent.com/78178900/124158889-193bd800-da60-11eb-8ef2-86fe55e35f30.png)
 
 
 
 
 # Summary
+
+- State if there is any positivity bias for reviews in the Vine program and provide one additional analysis to perform with the dataset to support the claim.
+
+  - Well, from looking at the percentage of 5-star reviews in the population of Vine and non-Vine you can see that 5-star percentage of Vine reviews is larger by ~%13. This could be an indication of possible positivity bias but I don't believe it is enough to claim that it certainly exists. Espcially because the number of non-Vine reviews used for the analysis amounted to 40,471 and the number of Vine reviews used was only 94. If we had more Vine reviews to use then then the percentage may be different. So, I do not believe we have enough data to determine if there is certainly positivity bias. I do believe the results show that it should be analyzed further.
+
+- I believe that we should redo the analysis for the Vine reviews and remove the paramater of creating a dataframe for total votes being greater than 20 and 50% of those votes being labeled helpful. The reason those parameter were put in place is because we wanted to analyze impactful reviews that were preceived as helpful; although, they do not narrow down any perceived value from the reviewers side. So, if we want to find positivity bias that means we want to pay attention to the reviewer and if we analyze all Vine reviews in the same manner then we should have a larger amount of data that would give us a more percentage that would more accurately reflect whether or not there is positivity bias.
