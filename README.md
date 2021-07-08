@@ -22,7 +22,7 @@ To better understand the results, please note the following:
     - ![paid_df](https://user-images.githubusercontent.com/78178900/124157430-5ef7a100-da5e-11eb-930f-ee6778bc642c.png)
     - ![paid_count](https://user-images.githubusercontent.com/78178900/124157505-759df800-da5e-11eb-9d6e-dfd025670acc.png)
   
-  - There 40,471 non-Vine reviews that had more than 20 votes and 50% or more of those votes were labeled as helpful.
+  - There were 40,471 non-Vine reviews that had more than 20 votes and 50% or more of those votes were labeled as helpful.
     - ![nonpaid_df](https://user-images.githubusercontent.com/78178900/124157618-949c8a00-da5e-11eb-8907-d18b1a863a00.png)
     - ![non_paid_count](https://user-images.githubusercontent.com/78178900/124157727-b39b1c00-da5e-11eb-9120-a52f9e94effb.png)
 
